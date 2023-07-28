@@ -6,9 +6,6 @@ Data structures deal with how the data is organised and held in the memory, when
 
 An Algorithm is step by step set of instruction to process the data for a specific purpose. So, an algorithm utilises various data structures in a logical way to solve a specific computing problem.
 
-In this tutorial, we will cover these two fundamental concepts of computer science using the Python programming language.
-
-
 
 ```
 Python - DS Environment
